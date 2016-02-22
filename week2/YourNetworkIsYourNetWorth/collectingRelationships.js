@@ -39,11 +39,10 @@ var joeyProfile = createNewUser('Joey Plain', 'Engineer', 'Oakland, California')
 var allUsers = youDontNeedToWorryAboutAnythingInHere();
 // check the console to see what these look like
 
-
+console.dir(joeyProfile);
 //console.dir(ourUser);
 //console.dir(userNetwork);
 
 
 
 // YOUR CODE HERE
-
